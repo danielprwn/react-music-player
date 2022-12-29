@@ -1,4 +1,4 @@
-# React JS RMusic Player App.
+# React JS RMusic Player App. 🧑‍💻
 
 ✔ Listening music - mp3 files. 
 ✔ Possibility to stop and play the song.
